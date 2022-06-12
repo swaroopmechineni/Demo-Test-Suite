@@ -33,5 +33,5 @@ The purpose of this project is to build an Automation suite for the role of Test
 
 2. Checkout functionality
 
-  We want to ensure the payment flow is seamless.
+   We want to ensure the payment flow is seamless.
    
