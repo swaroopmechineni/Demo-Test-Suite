@@ -7,7 +7,7 @@
 The purpose of this project is to build an Automation suite for the role of Test Automation Engineer. 
 
 -----------------------------------------------------------
-  Technologies 
+Prerequisites
 -----------------------------------------------------------
 1. Selenium
 2. Python version 3 and above
@@ -35,3 +35,20 @@ The purpose of this project is to build an Automation suite for the role of Test
 
    We want to ensure the payment flow is seamless.
    
+   
+-----------------------------------------------------------
+ How to run
+-----------------------------------------------------------
+   1. Install selenium by using the command 'pip install selenium'
+   2. Copy all the files in the repo to your local directory
+   3. run command 'python test-automation.py'
+   
+
+-----------------------------------------------------------
+ Expected output
+-----------------------------------------------------------
+"Ran 3 tests in [n]s
+
+OK"
+
+where nis a float number of seconds taken.
