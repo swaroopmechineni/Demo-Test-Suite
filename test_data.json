@@ -1,0 +1,7 @@
+{"login_data":
+	[
+		{"username":"vishwa.m@gmail.com", "password":"dummy143", "match":"The credentials provided are incorrect", "error": "pass wrong"},
+		{"username":"vishwa.m@gmal.com", "password":"dummy123", "match":"No customer account found", "error": "user wrong"},
+		{"username":"vishwa.m@gmail.com", "password":"dummy123", "match":"match"}
+	]
+}
