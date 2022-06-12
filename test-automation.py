@@ -49,7 +49,7 @@ class TestStringMethods(unittest.TestCase):
 		time.sleep(2)
 
 	def test_checkout(self):
-
+		print("===============Test checkout Functionality===============")
 		driver = self.driver
 		self.doLogin({"username":"vishwa.m@gmail.com", "password":"dummy123", "match":"match"}, driver, False)
 		shoppingcartbutton = driver.find_element_by_class_name("cart-label")
@@ -111,7 +111,7 @@ class TestStringMethods(unittest.TestCase):
 		driver.find_element_by_class_name("ico-logout")
 
 	def doLogin(self, i, driver, logout):
-		
+		print("===============Test login Functionality===============")
 		driver = self.driver
 		self.driver.find_element_by_class_name("ico-login").click()
 		email = driver.find_element_by_id("Email")
