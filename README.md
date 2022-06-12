@@ -27,11 +27,9 @@ The purpose of this project is to build an Automation suite for the role of Test
   Test cases Automated
 -----------------------------------------------------------
 1. Login functionality
-
    Customer is centre of any business. We want to make sure the customer entered details are correct so that the goods are delivered to the right address  and also want to improve the user experience so that the customer don't need to waste time on entering their details again.
 
 
 2. Checkout functionality
-
-   We want to ensure the payment flow is seamless.
+  We want to ensure the payment flow is seamless.
    
